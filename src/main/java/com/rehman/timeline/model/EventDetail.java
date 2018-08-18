@@ -1,14 +1,16 @@
 package com.rehman.timeline.model;
 
 
-import javax.persistence.Entity;
-import javax.persistence.Id;
+import javax.persistence.*;
 
 @Entity
 public class EventDetail {
     @Id
-    private String id;
+    @GeneratedValue(strategy = GenerationType.AUTO)
+    private Long id;
+    @Column(length = 10000)
     private String text;
+    @Column(length = 2064)
     private String headline;
 
     public String getText() {
@@ -25,5 +27,9 @@ public class EventDetail {
 
     public void setHeadline(String headline) {
         this.headline = headline;
+    }
+
+    public Long getId() {
+        return id;
     }
 }

@@ -9,6 +9,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import java.util.Arrays;
+import java.util.List;
 
 @RestController
 public class EventController {
@@ -17,13 +18,20 @@ public class EventController {
     private EventService eventService;
 
     @RequestMapping("/events")
-    public void getAllEvents() {
+    public List<Event> getAllEvents() {
+        List<Event> eventList = eventService.getAllEvents();
 
-        //System.out.println(Arrays.asList(events));
+        if (eventList.size() > 0)
+            return eventList;
+
+
+        readAllEventsAndSave();
+        return eventService.getAllEvents();
     }
 
-    private  void readAllEventsAndSave() {
+    private void readAllEventsAndSave() {
         String fileContent = StringUtil.getHardCodedEventsJson();
-        Event[] events = Utility.convertJsonToObject(fileContent,Event[].class);
+        Event[] events = Utility.convertJsonToObject(fileContent, Event[].class);
+        eventService.saveAll(events);
     }
 }

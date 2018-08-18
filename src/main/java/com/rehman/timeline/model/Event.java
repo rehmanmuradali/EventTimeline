@@ -1,22 +1,24 @@
 package com.rehman.timeline.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
+import org.hibernate.annotations.Cascade;
 
-import javax.persistence.Entity;
-import javax.persistence.Id;
-import javax.persistence.OneToOne;
+import javax.persistence.*;
 
 @Entity
 public class Event {
     @Id
-    private String Id;
+    @GeneratedValue(strategy = GenerationType.AUTO)
+    private Long Id;
     @OneToOne
+    @Cascade(org.hibernate.annotations.CascadeType.ALL)
     private EventDate start_date;
     @OneToOne
+    @Cascade(org.hibernate.annotations.CascadeType.ALL)
     private EventDetail text;
     private String display_date;
 
-    public String getId() {
+    public Long getId() {
         return Id;
     }
 

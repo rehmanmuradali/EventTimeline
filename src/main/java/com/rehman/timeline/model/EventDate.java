@@ -2,19 +2,22 @@ package com.rehman.timeline.model;
 
 
 import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
 import javax.persistence.Id;
 
 @Entity
 public class EventDate {
     @Id
-    String id;
-    int year;
-    int month;
-    int day;
-    int hour;
-    int minute;
-    int second;
-    String display_date;
+    @GeneratedValue(strategy = GenerationType.AUTO)
+    private Long id;
+    private int year;
+    private int month;
+    private int day;
+    private int hour;
+    private int minute;
+    private int second;
+    private String display_date;
 
 
     public int getYear() {
@@ -71,5 +74,9 @@ public class EventDate {
 
     public void setDisplay_date(String display_date) {
         this.display_date = display_date;
+    }
+
+    public Long getId() {
+        return id;
     }
 }
