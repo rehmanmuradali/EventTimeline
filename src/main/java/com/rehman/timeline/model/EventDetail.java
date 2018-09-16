@@ -3,7 +3,7 @@ package com.rehman.timeline.model;
 
 import javax.persistence.*;
 
-@Entity
+@Entity(name = "event_detail")
 public class EventDetail {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)

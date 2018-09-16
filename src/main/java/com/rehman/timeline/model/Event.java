@@ -5,7 +5,7 @@ import org.hibernate.annotations.Cascade;
 
 import javax.persistence.*;
 
-@Entity
+@Entity(name = "event")
 public class Event {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
