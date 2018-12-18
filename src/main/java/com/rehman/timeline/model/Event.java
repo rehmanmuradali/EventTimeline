@@ -11,15 +11,10 @@ public class Event {
     private Long Id;
 
     @OneToOne
-    @JoinColumn(name = "start_date_id")
     @Cascade(org.hibernate.annotations.CascadeType.ALL)
     private EventDate startDate;
 
-
-
     @OneToOne
-    @JoinColumn(name= "text_id")
-
     @Cascade(org.hibernate.annotations.CascadeType.ALL)
     private EventDetail text;
 

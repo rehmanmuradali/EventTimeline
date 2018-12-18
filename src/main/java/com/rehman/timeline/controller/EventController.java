@@ -19,6 +19,7 @@ public class EventController {
     @Autowired
     private EventService eventService;
 
+
     @GetMapping
     public List<Event> getAllEvents() {
         try {
@@ -50,6 +51,16 @@ public class EventController {
     public List<Event> getEventByYear(@PathVariable(name = "year") Long year) {
         return eventService.findEventByYear(year);
     }
+
+
+    @GetMapping("/startdate/{day}/{month}/{year}")
+    public List<Event> getEventByYear(@PathVariable(name = "day") Long day, @PathVariable(name = "month") Long month,@PathVariable(name = "year") Long year) {
+
+        return eventService.finEventByStartDate(day, month, year);
+    }
+
+
+
 
     private void readAllEventsAndSave() {
         String fileContent = StringUtil.getHardCodedEventsJson();
