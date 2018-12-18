@@ -8,23 +8,24 @@ import javax.persistence.Id;
 
 @Entity
 public class EventDate {
+
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     private Long id;
-    private int year;
+    private Long year;
     private int month;
     private int day;
     private int hour;
     private int minute;
     private int second;
-    private String display_date;
+    private String displayDate;
 
 
-    public int getYear() {
+    public Long getYear() {
         return year;
     }
 
-    public void setYear(int year) {
+    public void setYear(Long year) {
         this.year = year;
     }
 
@@ -68,12 +69,12 @@ public class EventDate {
         this.second = second;
     }
 
-    public String getDisplay_date() {
-        return display_date;
+    public String getDisplayDate() {
+        return displayDate;
     }
 
-    public void setDisplay_date(String display_date) {
-        this.display_date = display_date;
+    public void setDisplayDate(String displayDate) {
+        this.displayDate = displayDate;
     }
 
     public Long getId() {

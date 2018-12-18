@@ -5,7 +5,10 @@ import com.rehman.timeline.repository.EventRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+import java.util.Optional;
 
 @Service
 public class EventService {
@@ -25,5 +28,17 @@ public class EventService {
         List<Event> eventList = new ArrayList<>();
         eventRepository.findAll().forEach(eventList::add);
         return eventList;
+    }
+
+
+    public Event findById(Long id) {
+
+        Optional<Event> e = eventRepository.findById(id);
+        return e.orElse(null);
+    }
+
+    public List<Event> findEventByYear(Long year) {
+
+        return eventRepository.findEventsByYear(year);
     }
 }

@@ -1,1394 +1,1394 @@
 [
   {
-    "start_date": {
+    "startDate": {
       "year": "2018",
       "month": "7",
       "day": "11",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "11 July 2018"
+      "displayDate": "11 July 2018"
     },
     "text": {
       "headline": "Designation of the Seat of the Ismaili Imamat",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/zr1_4095_0.jpg?itok=XmcHYcLO&amp;c=3b9ee0746ace8fd76e11efdead906ba1\" width=\"366\" height=\"292\" alt=\"Mawlana Hazar Imam assina o documento que designa o Palácio Henrique de Mendonça como a Sede do Imamat Ismaili a 11 de julho de 2018\" title=\"Mawlana Hazar Imam assina o documento que designa o Palácio Henrique de Mendonça como a Sede do Imamat Ismaili a 11 de julho de 2018\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2018-07-11T00:00:00-04:00\">11 July 2018</span></div> \r\n<div class=\"tm-title\">Designation of the Seat of the Ismaili Imamat</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2018-07-11T00:00:00-04:00\">11 July 2018</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2018-07-11T00:00:00-04:00\">11 July 2018</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "2018",
       "month": "6",
       "day": "26",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "26 June 2018"
+      "displayDate": "26 June 2018"
     },
     "text": {
       "headline": "Inauguration of the Aga Khan Centre in London",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/dsc_4132.jpg?itok=vvSg1cZ-&amp;c=e6091657320c41d2b856f8e838c32410\" width=\"366\" height=\"292\" alt=\"Mawlana Hazar Imam and HRH The Prince of Wales unveil a plaque to commemorate the opening of the Aga Khan Centre.\" title=\"Mawlana Hazar Imam and HRH The Prince of Wales unveil a plaque to commemorate the opening of the Aga Khan Centre.\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2018-06-26T00:00:00-04:00\">26 June 2018</span></div> \r\n<div class=\"tm-title\">Inauguration of the Aga Khan Centre in London</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2018-06-26T00:00:00-04:00\">26 June 2018</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2018-06-26T00:00:00-04:00\">26 June 2018</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "2018",
       "month": "5",
       "day": "1",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "1 May 2018"
+      "displayDate": "1 May 2018"
     },
     "text": {
       "headline": "Honoured by Governor General of Canada at Rideau Hall",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/d75_1903-edit.jpg?itok=8NCOKcNw&amp;c=143611cc62fa440a95afe729e9facda9\" width=\"366\" height=\"292\" alt=\"Her Excellency the Right Honourable Julie Payette, Governor General of Canada, welcoming Mawlana Hazar Imam to Rideau Hall for a celebration of his contributions to the world during his 60 years of leadership as Imam of the Shia Ismaili Muslim community.\" title=\"Her Excellency the Right Honourable Julie Payette, Governor General of Canada, welcoming Mawlana Hazar Imam to Rideau Hall for a celebration of his contributions to the world during his 60 years of leadership as Imam of the Shia Ismaili Muslim community.\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2018-05-01T00:00:00-04:00\">1 May 2018</span></div> \r\n<div class=\"tm-title\">Honoured by Governor General of Canada at Rideau Hall</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2018-05-01T00:00:00-04:00\">1 May 2018</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2018-05-01T00:00:00-04:00\">1 May 2018</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "2018",
       "month": "3",
       "day": "21",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "21 March 2018"
+      "displayDate": "21 March 2018"
     },
     "text": {
       "headline": "Announcement of new global prize for music",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/akbar_hakim-11031.jpg?itok=Cc7_ZdYU&amp;c=046ebfd28ff3bb1a29c8de7f94a2db18\" width=\"366\" height=\"292\" alt=\"A performance by artists of the Aga Khan Music Initiative Ensemble – Homayoun Sakhi on the Afghan rubab, Salar Nader on the tabla, and Wu Man on the pipa.\" title=\"A performance by artists of the Aga Khan Music Initiative Ensemble – Homayoun Sakhi on the Afghan rubab, Salar Nader on the tabla, and Wu Man on the pipa.\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2018-03-21T00:00:00-04:00\">21 March 2018</span></div> \r\n<div class=\"tm-title\">Announcement of new global prize for music</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2018-03-21T00:00:00-04:00\">21 March 2018</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2018-03-21T00:00:00-04:00\">21 March 2018</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "2018",
       "month": "3",
       "day": "7",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "7 March 2018"
+      "displayDate": "7 March 2018"
     },
     "text": {
       "headline": "Hosted by Her Majesty the Queen at Windsor Castle",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/1mhi.jpeg?itok=zBKFhWTI&amp;c=428abb1d752c5c586c637e16ab20a219\" width=\"366\" height=\"292\" alt=\"Her Majesty the Queen this evening hosted a dinner at Windsor Castle to mark the Diamond Jubilee of Mawlana Hazar Imam\" title=\"Her Majesty the Queen this evening hosted a dinner at Windsor Castle to mark the Diamond Jubilee of Mawlana Hazar Imam\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2018-03-07T00:00:00-04:00\">7 March 2018</span></div> \r\n<div class=\"tm-title\">Hosted by Her Majesty the Queen at Windsor Castle</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2018-03-07T00:00:00-04:00\">7 March 2018</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2018-03-07T00:00:00-04:00\">7 March 2018</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "2018",
       "month": "2",
       "day": "20",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "20 February 2018"
+      "displayDate": "20 February 2018"
     },
     "text": {
       "headline": "Inauguration of Sunder Nursery",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/sam_0478.jpg?itok=nT-Vyfsg&amp;c=95eda10e7d7942ac1bb96dde316e8ec1\" width=\"366\" height=\"292\" alt=\"Mawlana Hazar Imam poses for a photograph at the newly inaugurated Sunder Nursery in New Delhi, India.\" title=\"Mawlana Hazar Imam poses for a photograph at the newly inaugurated Sunder Nursery in New Delhi, India.\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2018-02-20T00:00:00-04:00\">20 February 2018</span></div> \r\n<div class=\"tm-title\">Inauguration of Sunder Nursery</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2018-02-20T00:00:00-04:00\">20 February 2018</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2018-02-20T00:00:00-04:00\">20 February 2018</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "2017",
       "month": "12",
       "day": "15",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "15 December 2017"
+      "displayDate": "15 December 2017"
     },
     "text": {
       "headline": "Inauguration of the Centre for Innovation at AKU",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/ah_17070.jpg?itok=Hec9gt75\" width=\"366\" height=\"292\" alt=\"Professor Saulat Fatmi shares how a low-cost innovation introduced by the Aga Khan University’s faculty is helping students learn about the inner workings of the heart.\" title=\"Professor Saulat Fatmi shares how a low-cost innovation introduced by the Aga Khan University’s faculty is helping students learn about the inner workings of the heart.\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2017-12-15T00:00:00-04:00\">15 December 2017</span></div> \r\n<div class=\"tm-title\">Inauguration of the Centre for Innovation at AKU</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2017-12-15T00:00:00-04:00\">15 December 2017</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2017-12-15T00:00:00-04:00\">15 December 2017</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "2017",
       "month": "11",
       "day": "15",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "15 November 2017"
+      "displayDate": "15 November 2017"
     },
     "text": {
       "headline": "Presides over Global Pluralism Award ceremony",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/gcp_award_winners_group_0.jpg?itok=z86aRCpB\" width=\"366\" height=\"292\" alt=\"Mawlana Hazar Imam and Chief Justice Beverly Mclaughlin join the inaugural Global Pluralism Award recipients for a group photograph.\" title=\"Mawlana Hazar Imam and Chief Justice Beverly Mclaughlin join the inaugural Global Pluralism Award recipients for a group photograph.\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2017-11-15T00:00:00-04:00\">15 November 2017</span></div> \r\n<div class=\"tm-title\">Presides over Global Pluralism Award ceremony</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2017-11-15T00:00:00-04:00\">15 November 2017</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2017-11-15T00:00:00-04:00\">15 November 2017</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "2017",
       "month": "11",
       "day": "1",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "1 November 2017"
+      "displayDate": "1 November 2017"
     },
     "text": {
       "headline": "Receives the Asia Game Changer Lifetime Achievement Award from the Asia Society",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/akbar_hakim-10927.jpg?itok=m0pHXVBc\" width=\"366\" height=\"292\" alt=\"Mawlana Hazar Imam being presented Asia Society’s 2017 Asia Game Changer Lifetime Achievement Award by Michael Bloomberg \" title=\"Mawlana Hazar Imam being presented Asia Society’s 2017 Asia Game Changer Lifetime Achievement Award by Michael Bloomberg \" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2017-11-01T00:00:00-04:00\">1 November 2017</span></div> \r\n<div class=\"tm-title\">Receives the Asia Game Changer Lifetime Achievement Award from the Asia Society</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2017-11-01T00:00:00-04:00\">1 November 2017</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2017-11-01T00:00:00-04:00\">1 November 2017</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "2017",
       "month": "10",
       "day": "18",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "18 October 2017"
+      "displayDate": "18 October 2017"
     },
     "text": {
       "headline": "Presented with the Champion for Global Change Award by United Nations Foundation",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/akbar_hakim-ah_19367-2.jpg?itok=dawKZbKH\" width=\"366\" height=\"292\" alt=\"Kofi Annan, former UN Secretary-General, presents the Champion for Global Change Award to Mawlana Hazar Imam\" title=\"Kofi Annan, former UN Secretary-General, presents the Champion for Global Change Award to Mawlana Hazar Imam\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2017-10-18T00:00:00-04:00\">18 October 2017</span></div> \r\n<div class=\"tm-title\">Presented with the Champion for Global Change Award by United Nations Foundation</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2017-10-18T00:00:00-04:00\">18 October 2017</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2017-10-18T00:00:00-04:00\">18 October 2017</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "2017",
       "month": "10",
       "day": "9",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "9 October 2017"
+      "displayDate": "9 October 2017"
     },
     "text": {
       "headline": "Receives the Most Excellent Order of the Pearl of Africa from the President of Uganda",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/zr2_edt_8417_copy.jpg?itok=0d609TKg\" width=\"366\" height=\"292\" alt=\"His Excellency President Yoweri Museveni congratulates Mawlana Hazar Imam after awarding him The Most Excellent Order of the Pearl of Africa.\" title=\"His Excellency President Yoweri Museveni congratulates Mawlana Hazar Imam after awarding him The Most Excellent Order of the Pearl of Africa.\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2017-10-09T00:00:00-04:00\">9 October 2017</span></div> \r\n<div class=\"tm-title\">Receives the Most Excellent Order of the Pearl of Africa from the President of Uganda</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2017-10-09T00:00:00-04:00\">9 October 2017</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2017-10-09T00:00:00-04:00\">9 October 2017</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "2005",
       "month": "6",
       "day": "5",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "5 June 2005"
+      "displayDate": "5 June 2005"
     },
     "text": {
       "headline": "His Highness the Aga Khan invested as an Honorary Companion of the Order of Canada",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/canada_june2005_5m.jpeg?itok=3wVRd9SO\" width=\"366\" height=\"292\" title=\"The Right Honourable Adrienne Clarkson, Governor General of Canada and Highness the Aga Khan after the investiture of the Order of Canada.\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2005-06-05T00:00:00-04:00\">5 June 2005</span></div> \r\n<div class=\"tm-title\">His Highness the Aga Khan invested as an Honorary Companion of the Order of Canada</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2005-06-05T00:00:00-04:00\">5 June 2005</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2005-06-05T00:00:00-04:00\">5 June 2005</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "2001",
       "month": "6",
       "day": "7",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "7 June 2001"
+      "displayDate": "7 June 2001"
     },
     "text": {
       "headline": "Receives The Archon Award  ",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/2001-06-denmark-24450.jpg?itok=zvFPlu82\" width=\"366\" height=\"292\" title=\"His Highness the Aga Khan delivering a speech when receiving the Archon Award. President of Sigma Theta Tau International, Dr Patricia Thompson (middle) looked on together with Dr May L. Wikle and Dr Karen H. Morin.\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2001-06-07T00:00:00-04:00\">7 June 2001</span></div> \r\n<div class=\"tm-title\">Receives The Archon Award  </div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2001-06-07T00:00:00-04:00\">7 June 2001</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2001-06-07T00:00:00-04:00\">7 June 2001</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "1999",
       "month": "4",
       "day": "27",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "27 April 1999"
+      "displayDate": "27 April 1999"
     },
     "text": {
       "headline": "Signing of Cooperation Agreement between France and the Association Aga Khan ",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/1999-04-france-24269.jpg?itok=hrFsn4w8\" width=\"366\" height=\"292\" title=\"His Highness signing an Accord for Co-operation between the French Ministry of Foreign Affairs, represented by M. Hubert Védrine and the Association Aga Khan, a French entity whose members include some of the principal agencies of the AKDN.\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1999-04-27T00:00:00-04:00\">27 April 1999</span></div> \r\n<div class=\"tm-title\">Signing of Cooperation Agreement between France and the Association Aga Khan </div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1999-04-27T00:00:00-04:00\">27 April 1999</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1999-04-27T00:00:00-04:00\">27 April 1999</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "2017",
       "month": "7",
       "day": "20",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "20 July 2017"
+      "displayDate": "20 July 2017"
     },
     "text": {
       "headline": "Receives the Grand Cross of the Order of Liberty from the President of Portugal",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/_dsc0630.jpg?itok=dHwz5bPG\" width=\"366\" height=\"292\" title=\"President Marcelo Rebelo de Sousa of Portugal presented the Aga Khan with the Gra-cruz da ordem de Liberdade in recognition of his service to uplifting lives around the world.\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2017-07-20T00:00:00-04:00\">20 July 2017</span></div> \r\n<div class=\"tm-title\">Receives the Grand Cross of the Order of Liberty from the President of Portugal</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2017-07-20T00:00:00-04:00\">20 July 2017</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2017-07-20T00:00:00-04:00\">20 July 2017</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "1983",
       "month": "3",
       "day": "16",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "16 March 1983"
+      "displayDate": "16 March 1983"
     },
     "text": {
       "headline": "Presentation of the Charter of Aga Khan University",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/22332.jpg?itok=u_Vp9c1W\" width=\"366\" height=\"292\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1983-03-16T00:00:00-04:00\">16 March 1983</span></div> \r\n<div class=\"tm-title\">Presentation of the Charter of Aga Khan University</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1983-03-16T00:00:00-04:00\">16 March 1983</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1983-03-16T00:00:00-04:00\">16 March 1983</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "2007",
       "month": "11",
       "day": "13",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "13 November 2007"
+      "displayDate": "13 November 2007"
     },
     "text": {
       "headline": "Attends The Conference on Central Asia and Europe in Berlin",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/germany_nov2007_6m_1.jpeg?itok=cd86s1I8\" width=\"366\" height=\"292\" title=\"The Aga Khan commended the German Government for leading in this partnership effort and the European Union for carrying this forward with its endorsement of a &quot;Regional Strategy&quot; for Central Asia.\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2007-11-13T00:00:00-04:00\">13 November 2007</span></div> \r\n<div class=\"tm-title\">Attends The Conference on Central Asia and Europe in Berlin</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2007-11-13T00:00:00-04:00\">13 November 2007</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2007-11-13T00:00:00-04:00\">13 November 2007</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "2003",
       "month": "12",
       "day": "19",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "19 December 2003"
+      "displayDate": "19 December 2003"
     },
     "text": {
       "headline": "Opening of Alltex EPZ Limited at Athi River",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/2003-12-kenya-34703.jpg?itok=3row6nTU\" width=\"366\" height=\"292\" title=\"His Highness the Aga Khan speaking at Alltex ceremony opening, with (L to R) Prince Rahim Aga Khan and Prince Amyn Aga Khan and (2nd right) Kenya President Mwai Kibaki looking on.\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2003-12-19T00:00:00-04:00\">19 December 2003</span></div> \r\n<div class=\"tm-title\">Opening of Alltex EPZ Limited at Athi River</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2003-12-19T00:00:00-04:00\">19 December 2003</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2003-12-19T00:00:00-04:00\">19 December 2003</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "2002",
       "month": "3",
       "day": "11",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "11 March 2002"
+      "displayDate": "11 March 2002"
     },
     "text": {
       "headline": "Inauguration Ceremony of the First MicroFinance Bank",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/2002-03-pakistan-24612.jpg?itok=11tA-MTL\" width=\"366\" height=\"292\" title=\"His Highness the Aga Khan and President Musharraf unveiling the plaque at the inauguration of the First Microfinance Bank Ltd.\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2002-03-11T00:00:00-04:00\">11 March 2002</span></div> \r\n<div class=\"tm-title\">Inauguration Ceremony of the First MicroFinance Bank</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2002-03-11T00:00:00-04:00\">11 March 2002</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2002-03-11T00:00:00-04:00\">11 March 2002</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "2004",
       "month": "7",
       "day": "6",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "6 July 2004"
+      "displayDate": "6 July 2004"
     },
     "text": {
       "headline": "Opening Ceremony of the Afghan-Tajik Friendship Bridge in Darwaz",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/2004-07-tajikistan-36578.jpg?itok=S-pvcVTb\" width=\"366\" height=\"292\" title=\"Tajikistan’s President Emomali Rahmonov, His Highness the Aga Khan, and Afghanistan’s Vice-President Nematullah Shahrani, walk across the Tajik-Afghan Friendship Bridge.\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2004-07-06T00:00:00-04:00\">6 July 2004</span></div> \r\n<div class=\"tm-title\">Opening Ceremony of the Afghan-Tajik Friendship Bridge in Darwaz</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2004-07-06T00:00:00-04:00\">6 July 2004</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2004-07-06T00:00:00-04:00\">6 July 2004</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "2017",
       "month": "7",
       "day": "11",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "11 July 2017"
+      "displayDate": "11 July 2017"
     },
     "text": {
       "headline": "Diamond Jubilee of His Highness the Aga Khan",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/4.zr2_8002_0.jpg?itok=HghxXO-T\" width=\"366\" height=\"292\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2017-07-11T00:00:00-04:00\">11 July 2017</span></div> \r\n<div class=\"tm-title\">Diamond Jubilee of His Highness the Aga Khan</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2017-07-11T00:00:00-04:00\">11 July 2017</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2017-07-11T00:00:00-04:00\">11 July 2017</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "2011",
       "month": "7",
       "day": "27",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "27 July 2011"
+      "displayDate": "27 July 2011"
     },
     "text": {
       "headline": "Foundation Stone Laying Ceremony of Aga Khan University&#039;s Graduate School of Media and Communications",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/2011july_aku_gsmc_6.jpg?itok=6lEX1aGW\" width=\"366\" height=\"292\" title=\"The Honourable Professor Helen Jepkermoi Sambili, Minister for East African Community, the Right Honourable Raila Odinga, Prime Minister of Kenya, Mawlana Hazar Imam, and Firoz Rasul, President of the Aga Khan University.\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2011-07-27T00:00:00-04:00\">27 July 2011</span></div> \r\n<div class=\"tm-title\">Foundation Stone Laying Ceremony of Aga Khan University&#039;s Graduate School of Media and Communications</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2011-07-27T00:00:00-04:00\">27 July 2011</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2011-07-27T00:00:00-04:00\">27 July 2011</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "2005",
       "month": "6",
       "day": "6",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "6 June 2005"
+      "displayDate": "6 June 2005"
     },
     "text": {
       "headline": "Foundation Stone Laying Ceremony of the Delegation of the Ismaili Imamat in Ottawa",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/630.jpg?itok=ciIGQs1n\" width=\"366\" height=\"292\" title=\"Mawlana Hazar Imam in conversation with the Right Honourable Adrienne Clarkson, Governor General of Canada, while architect Fumihiko Maki looks on.\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2005-06-06T00:00:00-04:00\">6 June 2005</span></div> \r\n<div class=\"tm-title\">Foundation Stone Laying Ceremony of the Delegation of the Ismaili Imamat in Ottawa</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2005-06-06T00:00:00-04:00\">6 June 2005</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2005-06-06T00:00:00-04:00\">6 June 2005</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "2005",
       "month": "4",
       "day": "6",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "6 April 2005"
+      "displayDate": "6 April 2005"
     },
     "text": {
       "headline": "Agreement of Cooperation signed between the AKDN and the Government of Norway",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/2005-04-norway-17959.jpg?itok=576x6MxD\" width=\"366\" height=\"292\" title=\"His Highness the Aga Khan and Norway&#039;s Minister for International Development, Ms. Hilde F. Johnson, sign a Memorandum of Understanding between the AKDN and the Government of Norway. \" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2005-04-06T00:00:00-04:00\">6 April 2005</span></div> \r\n<div class=\"tm-title\">Agreement of Cooperation signed between the AKDN and the Government of Norway</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2005-04-06T00:00:00-04:00\">6 April 2005</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2005-04-06T00:00:00-04:00\">6 April 2005</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "2002",
       "month": "10",
       "day": "30",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "30 October 2002"
+      "displayDate": "30 October 2002"
     },
     "text": {
       "headline": "Opening Ceremony of the Aga Khan School in Osh",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/2002-11-kyrgyzrep-38010.jpg?itok=tnyNxkZE\" width=\"366\" height=\"292\" title=\"Mawlana Hazar Imam making his inaugural remarks in the central courtyard of the Aga Khan School, Osh.\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2002-10-30T00:00:00-04:00\">30 October 2002</span></div> \r\n<div class=\"tm-title\">Opening Ceremony of the Aga Khan School in Osh</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2002-10-30T00:00:00-04:00\">30 October 2002</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2002-10-30T00:00:00-04:00\">30 October 2002</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "2009",
       "month": "10",
       "day": "30",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "30 October 2009"
+      "displayDate": "30 October 2009"
     },
     "text": {
       "headline": "Agreement of Cooperation signed between the Ismaili Imamat and the State of Texas",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/texas-agreement-of-cooperation-2009_zr3_2106.jpeg?itok=hnMnJAkJ\" width=\"366\" height=\"292\" title=\"His Highness the Aga Khan and Governor Rick Perry sign the Agreement of Cooperation between the Government of the State of Texas and the Ismaili Imamat.\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2009-10-30T00:00:00-04:00\">30 October 2009</span></div> \r\n<div class=\"tm-title\">Agreement of Cooperation signed between the Ismaili Imamat and the State of Texas</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2009-10-30T00:00:00-04:00\">30 October 2009</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2009-10-30T00:00:00-04:00\">30 October 2009</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "2000",
       "month": "11",
       "day": "28",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "28 November 2000"
+      "displayDate": "28 November 2000"
     },
     "text": {
       "headline": "Speaks at the White House Conference on Culture and Diplomacy",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/2000-11-usa-24443.jpg?itok=ZXV2kJZ4\" width=\"366\" height=\"292\" title=\"His Highness the Aga Khan was meeting U. S. President Bill Clinton and U.S. Secretary of State Madeleine Albright at the first White House Conference on Culture and Diplomacy.\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2000-11-28T00:00:00-04:00\">28 November 2000</span></div> \r\n<div class=\"tm-title\">Speaks at the White House Conference on Culture and Diplomacy</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2000-11-28T00:00:00-04:00\">28 November 2000</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2000-11-28T00:00:00-04:00\">28 November 2000</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "2017",
       "month": "5",
       "day": "16",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "16 May 2017"
+      "displayDate": "16 May 2017"
     },
     "text": {
       "headline": "Opening Ceremony of the new headquarters of the Global Centre for Pluralism in Ottawa",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/_mv15893.jpg?itok=17JnKRZe\" width=\"366\" height=\"292\" title=\"Mawlana Hazar Imam delivers his remarks at the inauguration of the international headquarters of the Global Centre of Pluralism.\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2017-05-16T00:00:00-04:00\">16 May 2017</span></div> \r\n<div class=\"tm-title\">Opening Ceremony of the new headquarters of the Global Centre for Pluralism in Ottawa</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2017-05-16T00:00:00-04:00\">16 May 2017</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2017-05-16T00:00:00-04:00\">16 May 2017</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "1997",
       "month": "3",
       "day": "17",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "17 March 1997"
+      "displayDate": "17 March 1997"
     },
     "text": {
       "headline": "Inauguration of the Zanzibar Serena Inn",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/23982.jpg?itok=_9i2jhpL\" width=\"366\" height=\"292\" title=\"Mawlana Hazar Imam with the Tourism Promotion Services (TPS) staff, touring the Zanzibar Serena Inn before its inauguration. \" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1997-03-17T00:00:00-04:00\">17 March 1997</span></div> \r\n<div class=\"tm-title\">Inauguration of the Zanzibar Serena Inn</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1997-03-17T00:00:00-04:00\">17 March 1997</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1997-03-17T00:00:00-04:00\">17 March 1997</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "1996",
       "month": "6",
       "day": "18",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "18 June 1996"
+      "displayDate": "18 June 1996"
     },
     "text": {
       "headline": "Opening of Lake Manyara Serena Lodge",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/23739.jpg?itok=jCIDNqQp\" width=\"366\" height=\"292\" title=\"His Highness the Aga Khan and Tanzania President Mkapa arriving for the opening ceremony of the Lake Manyara Serena Lodge, followed by officials and Prince Amyn Aga Khan.\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1996-06-18T00:00:00-04:00\">18 June 1996</span></div> \r\n<div class=\"tm-title\">Opening of Lake Manyara Serena Lodge</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1996-06-18T00:00:00-04:00\">18 June 1996</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1996-06-18T00:00:00-04:00\">18 June 1996</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "2008",
       "month": "5",
       "day": "20",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "20 May 2008"
+      "displayDate": "20 May 2008"
     },
     "text": {
       "headline": "Foundation Stone Laying Ceremony of the Aga Khan Academy Dhaka",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/bangladesh_may2008_2m_1.jpeg?itok=7enNIFzI\" width=\"366\" height=\"292\" title=\"His Highness the Aga Khan speaking at the foundation stone laying ceremony of the Aga Khan Academy in Dhaka.\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2008-05-20T00:00:00-04:00\">20 May 2008</span></div> \r\n<div class=\"tm-title\">Foundation Stone Laying Ceremony of the Aga Khan Academy Dhaka</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2008-05-20T00:00:00-04:00\">20 May 2008</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2008-05-20T00:00:00-04:00\">20 May 2008</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "2006",
       "month": "9",
       "day": "22",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "22 September 2006"
+      "displayDate": "22 September 2006"
     },
     "text": {
       "headline": "Foundation Stone Laying Ceremony of the Aga Khan Academy Hyderabad",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/716_0.jpg?itok=Oj6EIMrY\" width=\"366\" height=\"292\" title=\"His Highness the Aga Khan, speaking at the Foundation Stone Laying Ceremony of the Aga Khan Academy, Hyderabad.\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2006-09-22T00:00:00-04:00\">22 September 2006</span></div> \r\n<div class=\"tm-title\">Foundation Stone Laying Ceremony of the Aga Khan Academy Hyderabad</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2006-09-22T00:00:00-04:00\">22 September 2006</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2006-09-22T00:00:00-04:00\">22 September 2006</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "1982",
       "month": "7",
       "day": "11",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "11 July 1982"
+      "displayDate": "11 July 1982"
     },
     "text": {
       "headline": "Silver Jubilee of His Highness the Aga Khan",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/40728.jpg?itok=2YK8-C-e\" width=\"366\" height=\"292\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1982-07-11T00:00:00-04:00\">11 July 1982</span></div> \r\n<div class=\"tm-title\">Silver Jubilee of His Highness the Aga Khan</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1982-07-11T00:00:00-04:00\">11 July 1982</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1982-07-11T00:00:00-04:00\">11 July 1982</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "1981",
       "month": "12",
       "day": "16",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "16 December 1981"
+      "displayDate": "16 December 1981"
     },
     "text": {
       "headline": "Memorandum of Understanding signed between Harvard University and the Aga Khan Foundation",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/21795.jpg?itok=mnlE-3-K\" width=\"366\" height=\"292\" title=\"His Highness the Aga Khan and President Bok of Harvard University signing an Agreement of Cooperation between the Aga Khan Foundation and Harvard University. \" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1981-12-16T00:00:00-04:00\">16 December 1981</span></div> \r\n<div class=\"tm-title\">Memorandum of Understanding signed between Harvard University and the Aga Khan Foundation</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1981-12-16T00:00:00-04:00\">16 December 1981</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1981-12-16T00:00:00-04:00\">16 December 1981</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "2007",
       "month": "7",
       "day": "11",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "11 July 2007"
+      "displayDate": "11 July 2007"
     },
     "text": {
       "headline": "Golden Jubilee of His Highness the Aga Khan",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/269_1.jpg?itok=qWcGQPA4\" width=\"366\" height=\"292\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2007-07-11T00:00:00-04:00\">11 July 2007</span></div> \r\n<div class=\"tm-title\">Golden Jubilee of His Highness the Aga Khan</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2007-07-11T00:00:00-04:00\">11 July 2007</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2007-07-11T00:00:00-04:00\">11 July 2007</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "2007",
       "month": "7",
       "day": "12",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "12 July 2007"
+      "displayDate": "12 July 2007"
     },
     "text": {
       "headline": "Inauguration of the Spirit &amp; Life Exhibition ",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/uk_july2007_5m_2.jpeg?itok=m5pxBAGg\" width=\"366\" height=\"292\" title=\"His Highness the Aga Khan speaking at the inauguration of the Spirit &amp; Life Exhibition.\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2007-07-12T00:00:00-04:00\">12 July 2007</span></div> \r\n<div class=\"tm-title\">Inauguration of the Spirit &amp; Life Exhibition </div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2007-07-12T00:00:00-04:00\">12 July 2007</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2007-07-12T00:00:00-04:00\">12 July 2007</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "1979",
       "month": "3",
       "day": "24",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "24 March 1979"
+      "displayDate": "24 March 1979"
     },
     "text": {
       "headline": "Foundation Stone Laying Ceremony for the Karimabad Maternity Home ",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/42527.jpg?itok=qMW6LaZq\" width=\"366\" height=\"292\" title=\"His Highness the Aga Khan at the Foundation Stone Laying Ceremony for the Karimabad Maternity Home,\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1979-03-24T00:00:00-04:00\">24 March 1979</span></div> \r\n<div class=\"tm-title\">Foundation Stone Laying Ceremony for the Karimabad Maternity Home </div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1979-03-24T00:00:00-04:00\">24 March 1979</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1979-03-24T00:00:00-04:00\">24 March 1979</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "1976",
       "month": "3",
       "day": "12",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "12 March 1976"
+      "displayDate": "12 March 1976"
     },
     "text": {
       "headline": "His Highness the Aga Khan speaks at the Seerat Conference in Karachi",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/54081.jpg?itok=B7uu1FeY\" width=\"366\" height=\"292\" title=\"Mawlana Hazar Imam speaking at the Seerat Conference, Karachi, Pakistan. \" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1976-03-12T00:00:00-04:00\">12 March 1976</span></div> \r\n<div class=\"tm-title\">His Highness the Aga Khan speaks at the Seerat Conference in Karachi</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1976-03-12T00:00:00-04:00\">12 March 1976</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1976-03-12T00:00:00-04:00\">12 March 1976</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "1988",
       "month": "12",
       "day": "8",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "8 December 1988"
+      "displayDate": "8 December 1988"
     },
     "text": {
       "headline": "Signing of a protocol of Cooperation for Development with the Government of Zanzibar",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/22907.jpg?itok=POnI49oV\" width=\"366\" height=\"292\" title=\"His Highness the Aga Khan with the Chief Minister Honorable Omar Ali Juma at the signing ceremony of a protocol of Cooperation for Development with the Government of Zanzibar. \" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1988-12-08T00:00:00-04:00\">8 December 1988</span></div> \r\n<div class=\"tm-title\">Signing of a protocol of Cooperation for Development with the Government of Zanzibar</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1988-12-08T00:00:00-04:00\">8 December 1988</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1988-12-08T00:00:00-04:00\">8 December 1988</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "2000",
       "month": "8",
       "day": "28",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "28 August 2000"
+      "displayDate": "28 August 2000"
     },
     "text": {
       "headline": "International Treaty signed between His Highness the Aga Khan and Central Asian states establishing the University of Central Asia ",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/2000-08-tajikistan-24338.jpg?itok=dHXHu8Xm\" width=\"366\" height=\"292\" title=\"His Excellency Emomali Rahmon, President of Tajikistan, and Mawlana Hazar Imam sign the International Treaty establishing the new University of Central Asia in a ceremony in Dushanbe, Tajikistan.\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2000-08-28T00:00:00-04:00\">28 August 2000</span></div> \r\n<div class=\"tm-title\">International Treaty signed between His Highness the Aga Khan and Central Asian states establishing the University of Central Asia </div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2000-08-28T00:00:00-04:00\">28 August 2000</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2000-08-28T00:00:00-04:00\">28 August 2000</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "2005",
       "month": "11",
       "day": "8",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "8 November 2005"
+      "displayDate": "8 November 2005"
     },
     "text": {
       "headline": "Opening Ceremony of the Kabul Serena Hotel",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/akfed-afghanistan-serena-57283.jpg?itok=wYxGbgpk\" width=\"366\" height=\"292\" title=\"Kabul Serena Hotel\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2005-11-08T00:00:00-04:00\">8 November 2005</span></div> \r\n<div class=\"tm-title\">Opening Ceremony of the Kabul Serena Hotel</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2005-11-08T00:00:00-04:00\">8 November 2005</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2005-11-08T00:00:00-04:00\">8 November 2005</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "2007",
       "month": "8",
       "day": "14",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "14 August 2007"
+      "displayDate": "14 August 2007"
     },
     "text": {
       "headline": "Foundation Stone Laying Ceremony of the new Residential Campus at the Aga Khan Academy Mombasa",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/powerpoint-p.13-aka-kenya-mombasa_2013_1715.jpg?itok=b52D1q-P\" width=\"366\" height=\"292\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2007-08-14T00:00:00-04:00\">14 August 2007</span></div> \r\n<div class=\"tm-title\">Foundation Stone Laying Ceremony of the new Residential Campus at the Aga Khan Academy Mombasa</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2007-08-14T00:00:00-04:00\">14 August 2007</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2007-08-14T00:00:00-04:00\">14 August 2007</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "2008",
       "month": "7",
       "day": "12",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "12 July 2008"
+      "displayDate": "12 July 2008"
     },
     "text": {
       "headline": "Memorandum of Understanding signed between Catholic of University of Portugal and Aga Khan University",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/507_0.jpg?itok=ExMMANyy\" width=\"366\" height=\"292\" title=\"His Highness the Aga Khan meets with Professor Jose Mariano Gago, Minister for Science, Technology and Higher Education after the signing of the Memorandum of Understanding between the Aga Khan University (AKU) and the Catholic University of Portugal.\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2008-07-12T00:00:00-04:00\">12 July 2008</span></div> \r\n<div class=\"tm-title\">Memorandum of Understanding signed between Catholic of University of Portugal and Aga Khan University</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2008-07-12T00:00:00-04:00\">12 July 2008</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2008-07-12T00:00:00-04:00\">12 July 2008</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "2008",
       "month": "11",
       "day": "22",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "22 November 2008"
+      "displayDate": "22 November 2008"
     },
     "text": {
       "headline": "Memorandum of Understanding signed between McMaster University and the Aga Khan University",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/2008-11-canada-2443.jpg?itok=zHxFwvWq\" width=\"366\" height=\"292\" title=\"President of McMaster University Dr Peter George addresses the audience at the signing ceremony of a Memorandum of Understanding between McMaster University and the Aga Khan University.\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2008-11-22T00:00:00-04:00\">22 November 2008</span></div> \r\n<div class=\"tm-title\">Memorandum of Understanding signed between McMaster University and the Aga Khan University</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2008-11-22T00:00:00-04:00\">22 November 2008</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2008-11-22T00:00:00-04:00\">22 November 2008</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "2005",
       "month": "3",
       "day": "25",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "25 March 2005"
+      "displayDate": "25 March 2005"
     },
     "text": {
       "headline": "Inauguration of Al-Azhar Park in Cairo",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/18498.jpg?itok=Ku5fJdoJ\" width=\"366\" height=\"292\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2005-03-25T00:00:00-04:00\">25 March 2005</span></div> \r\n<div class=\"tm-title\">Inauguration of Al-Azhar Park in Cairo</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2005-03-25T00:00:00-04:00\">25 March 2005</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2005-03-25T00:00:00-04:00\">25 March 2005</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "2016",
       "month": "10",
       "day": "19",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "19 October 2016"
+      "displayDate": "19 October 2016"
     },
     "text": {
       "headline": "Inauguration of the University of Central Asia&#039;s Naryn Campus",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/61045.jpg?itok=FCETZjRo\" width=\"366\" height=\"292\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2016-10-19T00:00:00-04:00\">19 October 2016</span></div> \r\n<div class=\"tm-title\">Inauguration of the University of Central Asia&#039;s Naryn Campus</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2016-10-19T00:00:00-04:00\">19 October 2016</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2016-10-19T00:00:00-04:00\">19 October 2016</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "1985",
       "month": "11",
       "day": "11",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "11 November 1985"
+      "displayDate": "11 November 1985"
     },
     "text": {
       "headline": "Inauguration Ceremony of Aga Khan University ",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/22534_0.jpg?itok=yAv0o2hU\" width=\"366\" height=\"292\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1985-11-11T00:00:00-04:00\">11 November 1985</span></div> \r\n<div class=\"tm-title\">Inauguration Ceremony of Aga Khan University </div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1985-11-11T00:00:00-04:00\">11 November 1985</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1985-11-11T00:00:00-04:00\">11 November 1985</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "1980",
       "month": "10",
       "day": "23",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "23 October 1980"
+      "displayDate": "23 October 1980"
     },
     "text": {
       "headline": "Presents the first Aga Khan Award for Architecture at Shalimar Gardens in Lahore",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/21677.jpg?itok=ZmZYRZ7k\" width=\"366\" height=\"292\" title=\"Mawlana Hazar Imam arriving at the Shalimar Gardens where the first Aga Khan Award for Architecture (AKAA) was held.\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1980-10-23T00:00:00-04:00\">23 October 1980</span></div> \r\n<div class=\"tm-title\">Presents the first Aga Khan Award for Architecture at Shalimar Gardens in Lahore</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1980-10-23T00:00:00-04:00\">23 October 1980</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1980-10-23T00:00:00-04:00\">23 October 1980</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "1976",
       "month": "2",
       "day": "16",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "16 February 1976"
+      "displayDate": "16 February 1976"
     },
     "text": {
       "headline": "Opening Ceremony of the Nairobi Serena Hotel",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/42518.jpg?itok=4N9cqFHO\" width=\"366\" height=\"292\" title=\"Mawlana Hazar Imam performing the opening ceremony of the Nairobi Serena Hotel with President Kenyatta (left) and officials looking on. \" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1976-02-16T00:00:00-04:00\">16 February 1976</span></div> \r\n<div class=\"tm-title\">Opening Ceremony of the Nairobi Serena Hotel</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1976-02-16T00:00:00-04:00\">16 February 1976</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1976-02-16T00:00:00-04:00\">16 February 1976</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "1971",
       "month": "2",
       "day": "3",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "3 February 1971"
+      "displayDate": "3 February 1971"
     },
     "text": {
       "headline": "Foundation Stone Laying Ceremony of the Aga Khan Hospital and Medical College in Karachi",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/21471.jpg?itok=aWiPbojP\" width=\"366\" height=\"292\" title=\"President of Pakistan Muhammad Yahya Khan and Mawlana Hazar Imam laying the foundation stone of the Aga Khan Medical Hospital and Medical College (AKHMC).\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1971-02-03T00:00:00-04:00\">3 February 1971</span></div> \r\n<div class=\"tm-title\">Foundation Stone Laying Ceremony of the Aga Khan Hospital and Medical College in Karachi</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1971-02-03T00:00:00-04:00\">3 February 1971</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1971-02-03T00:00:00-04:00\">3 February 1971</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "1967",
       "month": "3",
       "day": "14",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "14 March 1967"
+      "displayDate": "14 March 1967"
     },
     "text": {
       "headline": "Opening of the Industrial Promotion Services (IPS) Building in Nairobi",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/21344.jpg?itok=ucPAsuG4\" width=\"366\" height=\"292\" title=\"President Kenyatta accompanied by Mawlana Hazar Imam at the opening ceremony of the Industrial Promotion Services building on Kimathi Street, Nairobi.\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1967-03-14T00:00:00-04:00\">14 March 1967</span></div> \r\n<div class=\"tm-title\">Opening of the Industrial Promotion Services (IPS) Building in Nairobi</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1967-03-14T00:00:00-04:00\">14 March 1967</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1967-03-14T00:00:00-04:00\">14 March 1967</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "2008",
       "month": "11",
       "day": "3",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "3 November 2008"
+      "displayDate": "3 November 2008"
     },
     "text": {
       "headline": "Foundation Stone Laying Ceremony of the Ismaili Centre Khorog",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/2044_0.jpg?itok=4xYTFIxa\" width=\"366\" height=\"292\" title=\"Joined by the First Deputy Prime Minister and the Governor of Gorno-Badakhshan, His Highness the Aga Khan lays the foundation for the Ismaili Jamatkhana and Centre in Khorog.\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2008-11-03T00:00:00-04:00\">3 November 2008</span></div> \r\n<div class=\"tm-title\">Foundation Stone Laying Ceremony of the Ismaili Centre Khorog</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2008-11-03T00:00:00-04:00\">3 November 2008</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2008-11-03T00:00:00-04:00\">3 November 2008</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "2008",
       "month": "12",
       "day": "6",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "6 December 2008"
+      "displayDate": "6 December 2008"
     },
     "text": {
       "headline": "Inauguration of the Delegation of the Ismaili Imamat",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/4416_0.jpg?itok=62HGQy2j\" width=\"366\" height=\"292\" title=\"Mawlana Hazar Imam, speaking at the opening ceremony of The Delegation of the Ismaili Imamat, situated on Sussex Drive in Ottawa.\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2008-12-06T00:00:00-04:00\">6 December 2008</span></div> \r\n<div class=\"tm-title\">Inauguration of the Delegation of the Ismaili Imamat</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2008-12-06T00:00:00-04:00\">6 December 2008</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2008-12-06T00:00:00-04:00\">6 December 2008</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "2011",
       "month": "11",
       "day": "4",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "4 November 2011"
+      "displayDate": "4 November 2011"
     },
     "text": {
       "headline": "Agreement of Cooperation signed between the US State of Illinois and the Ismaili Imamat",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/2011nov4_illinois_2.jpg?itok=-JlEu_LS\" width=\"366\" height=\"292\" title=\"Illinois Governor Pat Quinn and His Highness the Aga Khan sign an Agreement of Cooperation between the State of Illinois and the Ismaili Imamat.\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2011-11-04T00:00:00-04:00\">4 November 2011</span></div> \r\n<div class=\"tm-title\">Agreement of Cooperation signed between the US State of Illinois and the Ismaili Imamat</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2011-11-04T00:00:00-04:00\">4 November 2011</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2011-11-04T00:00:00-04:00\">4 November 2011</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "2012",
       "month": "10",
       "day": "8",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "8 October 2012"
+      "displayDate": "8 October 2012"
     },
     "text": {
       "headline": "Inauguration of the Bujagali Power Project",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/2012-10-uganda05.jpeg?itok=5NVzwbBT\" width=\"366\" height=\"292\" title=\"His Highness the Aga Khan, President Yoweri Museveni of Uganda and other dignitaries tour the Bujagali power plant prior to the inauguration ceremony.\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2012-10-08T00:00:00-04:00\">8 October 2012</span></div> \r\n<div class=\"tm-title\">Inauguration of the Bujagali Power Project</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2012-10-08T00:00:00-04:00\">8 October 2012</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2012-10-08T00:00:00-04:00\">8 October 2012</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "2012",
       "month": "10",
       "day": "24",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "24 October 2012"
+      "displayDate": "24 October 2012"
     },
     "text": {
       "headline": "Agreement Signed between the Ismaili Imamat and the Province of Alberta",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/2012-10-canada082.jpg?itok=Zpvtgmde\" width=\"366\" height=\"292\" title=\"His Highness the Aga Khan and Alberta Premier Alison Redford sign an Agreement of Cooperation between the Ismaili Imamat and the Government of Alberta in Edmonton.\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2012-10-24T00:00:00-04:00\">24 October 2012</span></div> \r\n<div class=\"tm-title\">Agreement Signed between the Ismaili Imamat and the Province of Alberta</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2012-10-24T00:00:00-04:00\">24 October 2012</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2012-10-24T00:00:00-04:00\">24 October 2012</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "2016",
       "month": "10",
       "day": "5",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "5 October 2016"
+      "displayDate": "5 October 2016"
     },
     "text": {
       "headline": "Attends the Brussels Conference on Afghanistan",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/60587.jpg?itok=qrPXH93W\" width=\"366\" height=\"292\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2016-10-05T00:00:00-04:00\">5 October 2016</span></div> \r\n<div class=\"tm-title\">Attends the Brussels Conference on Afghanistan</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2016-10-05T00:00:00-04:00\">5 October 2016</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2016-10-05T00:00:00-04:00\">5 October 2016</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "1994",
       "month": "11",
       "day": "18",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "18 November 1994"
+      "displayDate": "18 November 1994"
     },
     "text": {
       "headline": "Inauguration of the Professional Development Centre of the Aga Khan University&#039;s Institute for Educational Development",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/23556.jpg?itok=okgbwf6J\" width=\"366\" height=\"292\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1994-11-18T00:00:00-04:00\">18 November 1994</span></div> \r\n<div class=\"tm-title\">Inauguration of the Professional Development Centre of the Aga Khan University&#039;s Institute for Educational Development</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1994-11-18T00:00:00-04:00\">18 November 1994</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1994-11-18T00:00:00-04:00\">18 November 1994</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "2009",
       "month": "10",
       "day": "12",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "12 October 2009"
+      "displayDate": "12 October 2009"
     },
     "text": {
       "headline": "Opening Ceremony of the Ismaili Centre Dushanbe",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/27327_redimensionner_0.jpg?itok=fMbXBh2a\" width=\"366\" height=\"292\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2009-10-12T00:00:00-04:00\">12 October 2009</span></div> \r\n<div class=\"tm-title\">Opening Ceremony of the Ismaili Centre Dushanbe</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2009-10-12T00:00:00-04:00\">12 October 2009</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2009-10-12T00:00:00-04:00\">12 October 2009</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "1967",
       "month": "1",
       "day": "24",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "24 January 1967"
+      "displayDate": "24 January 1967"
     },
     "text": {
       "headline": "Establishes the Aga Khan Foundation ",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1967-01-24T00:00:00-04:00\">24 January 1967</span></div> \r\n<div class=\"tm-title\">Establishes the Aga Khan Foundation </div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1967-01-24T00:00:00-04:00\">24 January 1967</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1967-01-24T00:00:00-04:00\">24 January 1967</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "2009",
       "month": "10",
       "day": "12",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "12 October 2009"
+      "displayDate": "12 October 2009"
     },
     "text": {
       "headline": "Opening Ceremony of the Ismaili Centre Dushanbe",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2009-10-12T00:00:00-04:00\">12 October 2009</span></div> \r\n<div class=\"tm-title\">Opening Ceremony of the Ismaili Centre Dushanbe</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2009-10-12T00:00:00-04:00\">12 October 2009</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2009-10-12T00:00:00-04:00\">12 October 2009</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "2003",
       "month": "8",
       "day": "30",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "30 August 2003"
+      "displayDate": "30 August 2003"
     },
     "text": {
       "headline": "Foundation Stone Laying Ceremony of the Ismaili Centre Dushanbe",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/2017-07-10.jpg?itok=yCtVSjwf\" width=\"366\" height=\"292\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2003-08-30T00:00:00-04:00\">30 August 2003</span></div> \r\n<div class=\"tm-title\">Foundation Stone Laying Ceremony of the Ismaili Centre Dushanbe</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2003-08-30T00:00:00-04:00\">30 August 2003</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2003-08-30T00:00:00-04:00\">30 August 2003</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "2010",
       "month": "5",
       "day": "28",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "28 May 2010"
+      "displayDate": "28 May 2010"
     },
     "text": {
       "headline": "Foundation Stone Laying Ceremony of the Ismaili Centre Toronto",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/3500_0.jpg?itok=_iRDdLbQ\" width=\"366\" height=\"292\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2010-05-28T00:00:00-04:00\">28 May 2010</span></div> \r\n<div class=\"tm-title\">Foundation Stone Laying Ceremony of the Ismaili Centre Toronto</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2010-05-28T00:00:00-04:00\">28 May 2010</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2010-05-28T00:00:00-04:00\">28 May 2010</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "2008",
       "month": "3",
       "day": "26",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "26 March 2008"
+      "displayDate": "26 March 2008"
     },
     "text": {
       "headline": "Opening Ceremony of the Ismaili Centre Dubai",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/7739.jpg?itok=RpYns5S_\" width=\"366\" height=\"292\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2008-03-26T00:00:00-04:00\">26 March 2008</span></div> \r\n<div class=\"tm-title\">Opening Ceremony of the Ismaili Centre Dubai</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2008-03-26T00:00:00-04:00\">26 March 2008</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2008-03-26T00:00:00-04:00\">26 March 2008</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "2003",
       "month": "12",
       "day": "13",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "13 December 2003"
+      "displayDate": "13 December 2003"
     },
     "text": {
       "headline": "Foundation Stone Laying Ceremony of the Ismaili Centre Dubai",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/24904.jpg?itok=dFQQbpvn\" width=\"366\" height=\"292\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2003-12-13T00:00:00-04:00\">13 December 2003</span></div> \r\n<div class=\"tm-title\">Foundation Stone Laying Ceremony of the Ismaili Centre Dubai</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2003-12-13T00:00:00-04:00\">13 December 2003</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2003-12-13T00:00:00-04:00\">13 December 2003</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "1998",
       "month": "7",
       "day": "11",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "11 July 1998"
+      "displayDate": "11 July 1998"
     },
     "text": {
       "headline": "Opening Ceremony of the Ismaili Centre Lisbon",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/2861_0.jpg?itok=nR9ulgec\" width=\"366\" height=\"292\" title=\"Almeida Santos, President of the Assembly of the Portuguese Republic, Ferro Rodrigues, Minister for Work and Solidarity, President Jorge Sampaio and Mawlana Hazar Imam converse in the Prayer Hall Courtyard of the newly inaugurated Ismaili Centre, Lisbon.\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1998-07-11T00:00:00-04:00\">11 July 1998</span></div> \r\n<div class=\"tm-title\">Opening Ceremony of the Ismaili Centre Lisbon</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1998-07-11T00:00:00-04:00\">11 July 1998</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1998-07-11T00:00:00-04:00\">11 July 1998</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "1996",
       "month": "12",
       "day": "18",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "18 December 1996"
+      "displayDate": "18 December 1996"
     },
     "text": {
       "headline": "Foundation Stone Laying Ceremony of the Ismaili Centre Lisbon",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/23924.jpg?itok=Z7DxXjte\" width=\"366\" height=\"292\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1996-12-18T00:00:00-04:00\">18 December 1996</span></div> \r\n<div class=\"tm-title\">Foundation Stone Laying Ceremony of the Ismaili Centre Lisbon</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1996-12-18T00:00:00-04:00\">18 December 1996</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1996-12-18T00:00:00-04:00\">18 December 1996</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "1985",
       "month": "8",
       "day": "23",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "23 August 1985"
+      "displayDate": "23 August 1985"
     },
     "text": {
       "headline": "Opening Ceremony of the Ismaili Centre Burnaby",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/40704_0.jpg?itok=3RKsmqeZ\" width=\"366\" height=\"292\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1985-08-23T00:00:00-04:00\">23 August 1985</span></div> \r\n<div class=\"tm-title\">Opening Ceremony of the Ismaili Centre Burnaby</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1985-08-23T00:00:00-04:00\">23 August 1985</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1985-08-23T00:00:00-04:00\">23 August 1985</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "1982",
       "month": "7",
       "day": "26",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "26 July 1982"
+      "displayDate": "26 July 1982"
     },
     "text": {
       "headline": "Foundation Stone Laying Ceremony of the Ismaili Centre Burnaby",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/22474.jpg?itok=uGG_Fc7w\" width=\"366\" height=\"292\" title=\"Mawlana Hazar Imam addressing guests at the Foundation Stone Laying Ceremony for the Ismaili Centre Burnaby.\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1982-07-26T00:00:00-04:00\">26 July 1982</span></div> \r\n<div class=\"tm-title\">Foundation Stone Laying Ceremony of the Ismaili Centre Burnaby</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1982-07-26T00:00:00-04:00\">26 July 1982</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1982-07-26T00:00:00-04:00\">26 July 1982</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "1985",
       "month": "4",
       "day": "24",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "24 April 1985"
+      "displayDate": "24 April 1985"
     },
     "text": {
       "headline": "Opening Ceremony of the Ismaili Centre London",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/32857_0.jpg?itok=erWlFPE2\" width=\"366\" height=\"292\" title=\"Mawlana Hazar Imam touring the roof garden of the Ismaili Centre London with Prime Minister Margaret Thatcher at the Opening Ceremony of the Centre. \" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1985-04-24T00:00:00-04:00\">24 April 1985</span></div> \r\n<div class=\"tm-title\">Opening Ceremony of the Ismaili Centre London</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1985-04-24T00:00:00-04:00\">24 April 1985</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1985-04-24T00:00:00-04:00\">24 April 1985</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "1979",
       "month": "9",
       "day": "6",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "6 September 1979"
+      "displayDate": "6 September 1979"
     },
     "text": {
       "headline": "Foundation Stone Laying Ceremony of the Ismaili Centre London",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/21630_6.jpg?itok=dj8TzqXu\" width=\"366\" height=\"292\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1979-09-06T00:00:00-04:00\">6 September 1979</span></div> \r\n<div class=\"tm-title\">Foundation Stone Laying Ceremony of the Ismaili Centre London</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1979-09-06T00:00:00-04:00\">6 September 1979</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1979-09-06T00:00:00-04:00\">6 September 1979</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "1976",
       "month": "3",
       "day": "17",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "17 March 1976"
+      "displayDate": "17 March 1976"
     },
     "text": {
       "headline": "Foundation Stone Ceremony of the Aga Khan Maternity Home ",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/22180.jpg?itok=nqDvFCQj\" width=\"366\" height=\"292\" title=\"His Highness the Aga Khan delivering a speech at the Foundation Stone Laying Ceremony of the Aga Khan Maternity Home, Hyderabad\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1976-03-17T00:00:00-04:00\">17 March 1976</span></div> \r\n<div class=\"tm-title\">Foundation Stone Ceremony of the Aga Khan Maternity Home </div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1976-03-17T00:00:00-04:00\">17 March 1976</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1976-03-17T00:00:00-04:00\">17 March 1976</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "1964",
       "month": "12",
       "day": "15",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "15 December 1964"
+      "displayDate": "15 December 1964"
     },
     "text": {
       "headline": "Inauguration of the First World Ismailia Socio-Economic Conference",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/21270.jpg?itok=pGr_rhv3\" width=\"366\" height=\"292\" title=\"Mawlana Hazar Imam with Sir Eboo (2nd left) and local officials inaugurating the First World Ismailia Socio-Economic Conference held in Karachi. \" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1964-12-15T00:00:00-04:00\">15 December 1964</span></div> \r\n<div class=\"tm-title\">Inauguration of the First World Ismailia Socio-Economic Conference</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1964-12-15T00:00:00-04:00\">15 December 1964</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1964-12-15T00:00:00-04:00\">15 December 1964</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "1960",
       "month": "10",
       "day": "2",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "2 October 1960"
+      "displayDate": "2 October 1960"
     },
     "text": {
       "headline": "Foundation Stone Ceremony of the Prince Aly Khan Library in Pakistan",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/21124.jpg?itok=f1QVNSWJ\" width=\"366\" height=\"292\" title=\"Mawlana Hazar Imam at the Foundation Stone ceremony of the Prince Aly Khan Library in Karachi, Pakistan.\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1960-10-02T00:00:00-04:00\">2 October 1960</span></div> \r\n<div class=\"tm-title\">Foundation Stone Ceremony of the Prince Aly Khan Library in Pakistan</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1960-10-02T00:00:00-04:00\">2 October 1960</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1960-10-02T00:00:00-04:00\">2 October 1960</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "1997",
       "month": "3",
       "day": "12",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "12 March 1997"
+      "displayDate": "12 March 1997"
     },
     "text": {
       "headline": "Inauguration of the Nation Press Building ",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/21826_redimensionner.jpg?itok=lnjHZV87\" width=\"366\" height=\"292\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1997-03-12T00:00:00-04:00\">12 March 1997</span></div> \r\n<div class=\"tm-title\">Inauguration of the Nation Press Building </div>\r\n<div class=\"tm-body\">His Highness the Aga Khan inaugrates the new Nation Press Building in Nairobi Kenya</div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1997-03-12T00:00:00-04:00\">12 March 1997</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1997-03-12T00:00:00-04:00\">12 March 1997</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "1957",
       "month": "7",
       "day": "11",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "11 July 1957"
+      "displayDate": "11 July 1957"
     },
     "text": {
       "headline": "Prince Karim Aga Khan becomes the 49th Imam of the Shia Imami Ismaili Muslims",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/59778.jpg?itok=4mK3zfx4\" width=\"366\" height=\"292\" title=\"Mawlana Hazar Imam, for the first time, granted audience to the representatives of Ismaillis from various countries at the Villa Barakat, Versoix, near Geneva. \" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1957-07-11T00:00:00-04:00\">11 July 1957</span></div> \r\n<div class=\"tm-title\">Prince Karim Aga Khan becomes the 49th Imam of the Shia Imami Ismaili Muslims</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1957-07-11T00:00:00-04:00\">11 July 1957</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1957-07-11T00:00:00-04:00\">11 July 1957</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "1959",
       "month": "6",
       "day": "11",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "11 June 1959"
+      "displayDate": "11 June 1959"
     },
     "text": {
       "headline": "His Highness the Aga Khan Graduates from Harvard University",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/20924.jpg?itok=ugy1uhD0\" width=\"366\" height=\"292\" title=\"Mawlana Hazar Imam with his father Prince Aly Khan after graduating from Harvard University\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1959-06-11T00:00:00-04:00\">11 June 1959</span></div> \r\n<div class=\"tm-title\">His Highness the Aga Khan Graduates from Harvard University</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1959-06-11T00:00:00-04:00\">11 June 1959</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"1959-06-11T00:00:00-04:00\">11 June 1959</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "2013",
       "month": "9",
       "day": "18",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "18 September 2013"
+      "displayDate": "18 September 2013"
     },
     "text": {
       "headline": "Humayun’s Tomb restoration inaugurated by Indian Prime Minister and His Highness the Aga Khan",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/2013-09-india04_1.jpg?itok=w1CDXlDg\" width=\"366\" height=\"292\" title=\"The restoration of Humayun’s Tomb, the resting place of the second Mughal emperor and a precursor to the Taj Mahal, was inaugurated on 18 September 2013.\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2013-09-18T00:00:00-04:00\">18 September 2013</span></div> \r\n<div class=\"tm-title\">Humayun’s Tomb restoration inaugurated by Indian Prime Minister and His Highness the Aga Khan</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2013-09-18T00:00:00-04:00\">18 September 2013</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2013-09-18T00:00:00-04:00\">18 September 2013</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "2014",
       "month": "2",
       "day": "27",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "27 February 2014"
+      "displayDate": "27 February 2014"
     },
     "text": {
       "headline": "Address of His Highness the Aga Khan to both Houses of Canadian Parliament",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/2014-02-canada02_1.jpg?itok=diaNqp2t\" width=\"366\" height=\"292\" title=\"Mawlana Hazar Imam delivers a historic address to a joint session of the Parliament of Canada on 27 February 2014, at the invitation of Prime Minister Stephen Harper.\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2014-02-27T00:00:00-04:00\">27 February 2014</span></div> \r\n<div class=\"tm-title\">Address of His Highness the Aga Khan to both Houses of Canadian Parliament</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2014-02-27T00:00:00-04:00\">27 February 2014</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2014-02-27T00:00:00-04:00\">27 February 2014</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "2015",
       "month": "6",
       "day": "3",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "3 June 2015"
+      "displayDate": "3 June 2015"
     },
     "text": {
       "headline": "Establishment of a Formal Seat of the Ismaili Imamat",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/2015-06-portugal-54865.jpg?itok=EOGJrdS3\" width=\"366\" height=\"292\" title=\"Mawlana Hazar Imam and Portugal’s Minister of State and Foreign Affairs Rui Machete sign a landmark agreement establishing a formal Seat of the Ismaili Imamat in Portugal.\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2015-06-03T00:00:00-04:00\">3 June 2015</span></div> \r\n<div class=\"tm-title\">Establishment of a Formal Seat of the Ismaili Imamat</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2015-06-03T00:00:00-04:00\">3 June 2015</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2015-06-03T00:00:00-04:00\">3 June 2015</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "2015",
       "month": "5",
       "day": "25",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "25 May 2015"
+      "displayDate": "25 May 2015"
     },
     "text": {
       "headline": "Agreement Signed between Province of Ontario and the Ismaili Imamat ",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/akdn-canada-56202_0.jpg?itok=KCi79DXw\" width=\"366\" height=\"292\" title=\"His Highness the Aga Khan and Premier Wynne of Ontario sign an agreement between the Province of Ontario and the Ismaili Imamat that sets a blueprint for cooperation.\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2015-05-25T00:00:00-04:00\">25 May 2015</span></div> \r\n<div class=\"tm-title\">Agreement Signed between Province of Ontario and the Ismaili Imamat </div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2015-05-25T00:00:00-04:00\">25 May 2015</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2015-05-25T00:00:00-04:00\">25 May 2015</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "2015",
       "month": "5",
       "day": "25",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "25 May 2015"
+      "displayDate": "25 May 2015"
     },
     "text": {
       "headline": "Inauguration of the Aga Khan Park Toronto",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/akdn-canada-56306.jpg?itok=E_yLKAUU\" width=\"366\" height=\"292\" title=\"His Highness the Aga Khan speaking at the inauguration of the Aga Khan Park.\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2015-05-25T00:00:00-04:00\">25 May 2015</span></div> \r\n<div class=\"tm-title\">Inauguration of the Aga Khan Park Toronto</div>\r\n<div class=\"tm-body\">&nbsp;&nbsp;</div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2015-05-25T00:00:00-04:00\">25 May 2015</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2015-05-25T00:00:00-04:00\">25 May 2015</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "2015",
       "month": "4",
       "day": "7",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "7 April 2015"
+      "displayDate": "7 April 2015"
     },
     "text": {
       "headline": "Foundation Ceremony of the Humayun&#039;s Tomb Site Museum",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/2015-04-india-55857.jpg?itok=erNa1Bm9\" width=\"366\" height=\"292\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2015-04-07T00:00:00-04:00\">7 April 2015</span></div> \r\n<div class=\"tm-title\">Foundation Ceremony of the Humayun&#039;s Tomb Site Museum</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2015-04-07T00:00:00-04:00\">7 April 2015</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2015-04-07T00:00:00-04:00\">7 April 2015</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "2015",
       "month": "3",
       "day": "4",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "4 March 2015"
+      "displayDate": "4 March 2015"
     },
     "text": {
       "headline": "His Highness the Aga Khan receives the Government of Canada&#039;s Representative to the Ismaili Imamat",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/2015-03-france-akdn-54599.jpg?itok=GuGIyqvf\" width=\"366\" height=\"292\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2015-03-04T00:00:00-04:00\">4 March 2015</span></div> \r\n<div class=\"tm-title\">His Highness the Aga Khan receives the Government of Canada&#039;s Representative to the Ismaili Imamat</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2015-03-04T00:00:00-04:00\">4 March 2015</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2015-03-04T00:00:00-04:00\">4 March 2015</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "2014",
       "month": "12",
       "day": "4",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "4 December 2014"
+      "displayDate": "4 December 2014"
     },
     "text": {
       "headline": "Attends the London Conference on Afghanistan",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/1178_0.jpg?itok=5GN9AQkj\" width=\"366\" height=\"292\" title=\"His Highness the Aga Khan with world leaders at the London Conference on Afghanistan.\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2014-12-04T00:00:00-04:00\">4 December 2014</span></div> \r\n<div class=\"tm-title\">Attends the London Conference on Afghanistan</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2014-12-04T00:00:00-04:00\">4 December 2014</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2014-12-04T00:00:00-04:00\">4 December 2014</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "2014",
       "month": "9",
       "day": "12",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "12 September 2014"
+      "displayDate": "12 September 2014"
     },
     "text": {
       "headline": "Opening of the Aga Khan Museum Toronto",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/01_gjo2358_gary_otte_0.jpg?itok=CPznFPSB\" width=\"366\" height=\"292\" title=\"His Highness the Aga Khan and Prime Minister Harper walk through the park together with members of the Imam&#039;s family and institutional leaders.\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2014-09-12T00:00:00-04:00\">12 September 2014</span></div> \r\n<div class=\"tm-title\">Opening of the Aga Khan Museum Toronto</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2014-09-12T00:00:00-04:00\">12 September 2014</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2014-09-12T00:00:00-04:00\">12 September 2014</span>"
   },
   {
-    "start_date": {
+    "startDate": {
       "year": "2014",
       "month": "9",
       "day": "12",
       "hour": "12",
       "minute": "00",
       "second": "00",
-      "display_date": "12 September 2014"
+      "displayDate": "12 September 2014"
     },
     "text": {
       "headline": "Opening of the Ismaili Centre Toronto",
       "text": "<div class=\"tm-wraper\">\r\n<div class=\"tm-image-left\">\r\n<div class=\"tm-image\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"https://the.ismaili/sites/ismaili/files/styles/timeline_slider/public/07_mv10664_0.jpg?itok=9GyYgyTZ\" width=\"366\" height=\"292\" title=\"His Highness the Aga Khan and Prime Minister Stephen Harper unveil a plaque commemorating the opening of the Ismaili Centre, Toronto.\" /></div>\r\n</div>\r\n<div class=\"tm-date-body-title\"> \r\n <div class=\"tm-date\"><span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2014-09-12T00:00:00-04:00\">12 September 2014</span></div> \r\n<div class=\"tm-title\">Opening of the Ismaili Centre Toronto</div>\r\n<div class=\"tm-body\"></div>\r\n</div>\r\n</div>"
     },
-    "display_date": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2014-09-12T00:00:00-04:00\">12 September 2014</span>"
+    "displayDate": "<span class=\"date-display-single\" property=\"dc:date\" datatype=\"xsd:dateTime\" content=\"2014-09-12T00:00:00-04:00\">12 September 2014</span>"
   }
 ]
